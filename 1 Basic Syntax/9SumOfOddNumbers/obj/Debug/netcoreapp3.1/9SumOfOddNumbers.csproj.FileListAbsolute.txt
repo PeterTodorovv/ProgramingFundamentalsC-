@@ -1,0 +1,12 @@
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\bin\Debug\netcoreapp3.1\9SumOfOddNumbers.exe
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\bin\Debug\netcoreapp3.1\9SumOfOddNumbers.deps.json
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\bin\Debug\netcoreapp3.1\9SumOfOddNumbers.runtimeconfig.json
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\bin\Debug\netcoreapp3.1\9SumOfOddNumbers.runtimeconfig.dev.json
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\bin\Debug\netcoreapp3.1\9SumOfOddNumbers.dll
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\bin\Debug\netcoreapp3.1\9SumOfOddNumbers.pdb
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\obj\Debug\netcoreapp3.1\9SumOfOddNumbers.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\obj\Debug\netcoreapp3.1\9SumOfOddNumbers.AssemblyInfo.cs
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\obj\Debug\netcoreapp3.1\9SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\obj\Debug\netcoreapp3.1\9SumOfOddNumbers.dll
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\obj\Debug\netcoreapp3.1\9SumOfOddNumbers.pdb
+C:\Users\peter\source\repos\Lec1 Basic Syntax\9SumOfOddNumbers\obj\Debug\netcoreapp3.1\9SumOfOddNumbers.genruntimeconfig.cache
