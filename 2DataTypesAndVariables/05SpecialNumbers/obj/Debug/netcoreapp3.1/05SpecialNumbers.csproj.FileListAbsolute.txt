@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\bin\Debug\netcoreapp3.1\05SpecialNumbers.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05SpecialNumbers\obj\Debug\netcoreapp3.1\05SpecialNumbers.genruntimeconfig.cache

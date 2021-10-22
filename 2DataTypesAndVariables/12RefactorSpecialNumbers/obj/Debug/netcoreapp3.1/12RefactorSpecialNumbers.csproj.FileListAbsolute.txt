@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12RefactorSpecialNumbers.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12RefactorSpecialNumbers.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12RefactorSpecialNumbers.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12RefactorSpecialNumbers.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\bin\Debug\netcoreapp3.1\12RefactorSpecialNumbers.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12RefactorSpecialNumbers.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12RefactorSpecialNumbers.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12RefactorSpecialNumbers.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\12RefactorSpecialNumbers\obj\Debug\netcoreapp3.1\12RefactorSpecialNumbers.genruntimeconfig.cache

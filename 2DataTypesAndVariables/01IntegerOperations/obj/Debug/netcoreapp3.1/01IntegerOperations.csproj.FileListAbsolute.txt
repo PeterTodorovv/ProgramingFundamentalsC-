@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\bin\Debug\netcoreapp3.1\01IntegerOperations.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\bin\Debug\netcoreapp3.1\01IntegerOperations.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\bin\Debug\netcoreapp3.1\01IntegerOperations.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\bin\Debug\netcoreapp3.1\01IntegerOperations.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\bin\Debug\netcoreapp3.1\01IntegerOperations.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\bin\Debug\netcoreapp3.1\01IntegerOperations.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\obj\Debug\netcoreapp3.1\01IntegerOperations.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\obj\Debug\netcoreapp3.1\01IntegerOperations.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\obj\Debug\netcoreapp3.1\01IntegerOperations.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\obj\Debug\netcoreapp3.1\01IntegerOperations.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\obj\Debug\netcoreapp3.1\01IntegerOperations.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\01IntegerOperations\obj\Debug\netcoreapp3.1\01IntegerOperations.genruntimeconfig.cache

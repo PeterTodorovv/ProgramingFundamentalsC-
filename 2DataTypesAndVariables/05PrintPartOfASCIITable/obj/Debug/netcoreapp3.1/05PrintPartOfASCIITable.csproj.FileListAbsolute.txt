@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\bin\Debug\netcoreapp3.1\05PrintPartOfASCIITable.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\05PrintPartOfASCIITable\obj\Debug\netcoreapp3.1\05PrintPartOfASCIITable.genruntimeconfig.cache

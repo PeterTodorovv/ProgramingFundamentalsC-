@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\bin\Debug\netcoreapp3.1\08BeerKegs.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\bin\Debug\netcoreapp3.1\08BeerKegs.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\bin\Debug\netcoreapp3.1\08BeerKegs.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\bin\Debug\netcoreapp3.1\08BeerKegs.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\bin\Debug\netcoreapp3.1\08BeerKegs.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\bin\Debug\netcoreapp3.1\08BeerKegs.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\obj\Debug\netcoreapp3.1\08BeerKegs.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\obj\Debug\netcoreapp3.1\08BeerKegs.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\obj\Debug\netcoreapp3.1\08BeerKegs.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\obj\Debug\netcoreapp3.1\08BeerKegs.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\obj\Debug\netcoreapp3.1\08BeerKegs.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\08BeerKegs\obj\Debug\netcoreapp3.1\08BeerKegs.genruntimeconfig.cache

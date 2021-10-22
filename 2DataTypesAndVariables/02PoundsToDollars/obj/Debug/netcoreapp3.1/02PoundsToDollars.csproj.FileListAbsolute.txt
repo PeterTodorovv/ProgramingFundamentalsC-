@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\bin\Debug\netcoreapp3.1\02PoundsToDollars.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\02PoundsToDollars\obj\Debug\netcoreapp3.1\02PoundsToDollars.genruntimeconfig.cache

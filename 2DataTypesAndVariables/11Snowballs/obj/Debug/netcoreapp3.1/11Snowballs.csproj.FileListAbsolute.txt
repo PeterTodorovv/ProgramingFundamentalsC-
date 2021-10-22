@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\bin\Debug\netcoreapp3.1\11Snowballs.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\bin\Debug\netcoreapp3.1\11Snowballs.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\bin\Debug\netcoreapp3.1\11Snowballs.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\bin\Debug\netcoreapp3.1\11Snowballs.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\bin\Debug\netcoreapp3.1\11Snowballs.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\bin\Debug\netcoreapp3.1\11Snowballs.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\11Snowballs\obj\Debug\netcoreapp3.1\11Snowballs.genruntimeconfig.cache

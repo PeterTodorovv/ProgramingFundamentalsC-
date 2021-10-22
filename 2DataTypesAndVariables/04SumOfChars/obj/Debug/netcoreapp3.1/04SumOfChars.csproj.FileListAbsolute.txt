@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\bin\Debug\netcoreapp3.1\04SumOfChars.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\bin\Debug\netcoreapp3.1\04SumOfChars.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\bin\Debug\netcoreapp3.1\04SumOfChars.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\bin\Debug\netcoreapp3.1\04SumOfChars.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\bin\Debug\netcoreapp3.1\04SumOfChars.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\bin\Debug\netcoreapp3.1\04SumOfChars.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\obj\Debug\netcoreapp3.1\04SumOfChars.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\obj\Debug\netcoreapp3.1\04SumOfChars.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\obj\Debug\netcoreapp3.1\04SumOfChars.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\obj\Debug\netcoreapp3.1\04SumOfChars.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\obj\Debug\netcoreapp3.1\04SumOfChars.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\04SumOfChars\obj\Debug\netcoreapp3.1\04SumOfChars.genruntimeconfig.cache

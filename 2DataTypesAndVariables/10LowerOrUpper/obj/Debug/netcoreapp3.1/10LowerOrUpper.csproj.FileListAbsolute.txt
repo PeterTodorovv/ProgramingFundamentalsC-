@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp3.1\10LowerOrUpper.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp3.1\10LowerOrUpper.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp3.1\10LowerOrUpper.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp3.1\10LowerOrUpper.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp3.1\10LowerOrUpper.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\bin\Debug\netcoreapp3.1\10LowerOrUpper.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp3.1\10LowerOrUpper.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp3.1\10LowerOrUpper.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp3.1\10LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp3.1\10LowerOrUpper.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp3.1\10LowerOrUpper.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10LowerOrUpper\obj\Debug\netcoreapp3.1\10LowerOrUpper.genruntimeconfig.cache

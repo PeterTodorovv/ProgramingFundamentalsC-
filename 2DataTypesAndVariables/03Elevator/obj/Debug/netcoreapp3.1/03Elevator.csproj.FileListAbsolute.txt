@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\bin\Debug\netcoreapp3.1\03Elevator.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\03Elevator\obj\Debug\netcoreapp3.1\03Elevator.genruntimeconfig.cache

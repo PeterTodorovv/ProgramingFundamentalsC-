@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\bin\Debug\netcoreapp3.1\10PokeMon.exe
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\bin\Debug\netcoreapp3.1\10PokeMon.deps.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\bin\Debug\netcoreapp3.1\10PokeMon.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\bin\Debug\netcoreapp3.1\10PokeMon.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\bin\Debug\netcoreapp3.1\10PokeMon.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\bin\Debug\netcoreapp3.1\10PokeMon.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\obj\Debug\netcoreapp3.1\10PokeMon.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\obj\Debug\netcoreapp3.1\10PokeMon.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\obj\Debug\netcoreapp3.1\10PokeMon.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\obj\Debug\netcoreapp3.1\10PokeMon.dll
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\obj\Debug\netcoreapp3.1\10PokeMon.pdb
+C:\dev\softuni c#\fundamentals\lec8DataTypesAndVariables\10PokeMon\obj\Debug\netcoreapp3.1\10PokeMon.genruntimeconfig.cache
