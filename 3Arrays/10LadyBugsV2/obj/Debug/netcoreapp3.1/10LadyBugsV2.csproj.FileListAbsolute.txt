@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\bin\Debug\netcoreapp3.1\10LadyBugsV2.exe
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\bin\Debug\netcoreapp3.1\10LadyBugsV2.deps.json
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\bin\Debug\netcoreapp3.1\10LadyBugsV2.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\bin\Debug\netcoreapp3.1\10LadyBugsV2.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\bin\Debug\netcoreapp3.1\10LadyBugsV2.dll
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\bin\Debug\netcoreapp3.1\10LadyBugsV2.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.dll
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugsV2\obj\Debug\netcoreapp3.1\10LadyBugsV2.genruntimeconfig.cache

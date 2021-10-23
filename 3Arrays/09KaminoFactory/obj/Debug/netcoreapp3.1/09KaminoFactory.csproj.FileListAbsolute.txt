@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.exe
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.deps.json
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.dll
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\bin\Debug\netcoreapp3.1\09KaminoFactory.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.dll
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\09KaminoFactory\obj\Debug\netcoreapp3.1\09KaminoFactory.genruntimeconfig.cache

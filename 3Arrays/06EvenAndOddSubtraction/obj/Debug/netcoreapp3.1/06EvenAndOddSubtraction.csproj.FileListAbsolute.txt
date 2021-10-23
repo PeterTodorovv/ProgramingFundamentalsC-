@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.exe
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.deps.json
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.dll
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06EvenAndOddSubtraction.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.dll
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\06EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06EvenAndOddSubtraction.genruntimeconfig.cache

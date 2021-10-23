@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\bin\Debug\netcoreapp3.1\10LadyBugs.exe
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\bin\Debug\netcoreapp3.1\10LadyBugs.deps.json
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\bin\Debug\netcoreapp3.1\10LadyBugs.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\bin\Debug\netcoreapp3.1\10LadyBugs.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\bin\Debug\netcoreapp3.1\10LadyBugs.dll
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\bin\Debug\netcoreapp3.1\10LadyBugs.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.dll
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\10LadyBugs\obj\Debug\netcoreapp3.1\10LadyBugs.genruntimeconfig.cache

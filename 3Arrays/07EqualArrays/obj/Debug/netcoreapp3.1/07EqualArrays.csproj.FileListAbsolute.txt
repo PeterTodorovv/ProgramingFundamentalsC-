@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.exe
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.deps.json
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.dll
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\bin\Debug\netcoreapp3.1\07EqualArrays.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.dll
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\07EqualArrays\obj\Debug\netcoreapp3.1\07EqualArrays.genruntimeconfig.cache

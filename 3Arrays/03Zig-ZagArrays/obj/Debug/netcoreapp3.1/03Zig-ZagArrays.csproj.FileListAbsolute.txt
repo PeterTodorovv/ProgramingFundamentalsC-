@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.exe
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.deps.json
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.dll
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\bin\Debug\netcoreapp3.1\03Zig-ZagArrays.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.dll
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.pdb
+C:\dev\softuni c#\fundamentals\11Arrays\03Zig-ZagArrays\obj\Debug\netcoreapp3.1\03Zig-ZagArrays.genruntimeconfig.cache
