@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\bin\Debug\netcoreapp3.1\02CenterPoint.exe
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\bin\Debug\netcoreapp3.1\02CenterPoint.deps.json
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\bin\Debug\netcoreapp3.1\02CenterPoint.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\bin\Debug\netcoreapp3.1\02CenterPoint.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\bin\Debug\netcoreapp3.1\02CenterPoint.dll
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\bin\Debug\netcoreapp3.1\02CenterPoint.pdb
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\obj\Debug\netcoreapp3.1\02CenterPoint.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\obj\Debug\netcoreapp3.1\02CenterPoint.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\obj\Debug\netcoreapp3.1\02CenterPoint.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\obj\Debug\netcoreapp3.1\02CenterPoint.dll
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\obj\Debug\netcoreapp3.1\02CenterPoint.pdb
+C:\dev\softuni c#\fundamentals\14Methods\02CenterPoint\obj\Debug\netcoreapp3.1\02CenterPoint.genruntimeconfig.cache

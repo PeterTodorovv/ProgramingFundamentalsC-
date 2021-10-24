@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\bin\Debug\netcoreapp3.1\10TopNumber.exe
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\bin\Debug\netcoreapp3.1\10TopNumber.deps.json
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\bin\Debug\netcoreapp3.1\10TopNumber.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\bin\Debug\netcoreapp3.1\10TopNumber.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\bin\Debug\netcoreapp3.1\10TopNumber.dll
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\bin\Debug\netcoreapp3.1\10TopNumber.pdb
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.dll
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.pdb
+C:\dev\softuni c#\fundamentals\14Methods\10TopNumber\obj\Debug\netcoreapp3.1\10TopNumber.genruntimeconfig.cache

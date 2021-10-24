@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\bin\Debug\netcoreapp3.1\05Orders.exe
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\bin\Debug\netcoreapp3.1\05Orders.deps.json
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\bin\Debug\netcoreapp3.1\05Orders.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\bin\Debug\netcoreapp3.1\05Orders.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\bin\Debug\netcoreapp3.1\05Orders.dll
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\bin\Debug\netcoreapp3.1\05Orders.pdb
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\obj\Debug\netcoreapp3.1\05Orders.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\obj\Debug\netcoreapp3.1\05Orders.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\obj\Debug\netcoreapp3.1\05Orders.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\obj\Debug\netcoreapp3.1\05Orders.dll
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\obj\Debug\netcoreapp3.1\05Orders.pdb
+C:\dev\softuni c#\fundamentals\14Methods\05Orders\obj\Debug\netcoreapp3.1\05Orders.genruntimeconfig.cache

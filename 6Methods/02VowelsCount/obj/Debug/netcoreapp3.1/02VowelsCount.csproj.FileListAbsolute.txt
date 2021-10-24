@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\bin\Debug\netcoreapp3.1\02VowelsCount.exe
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\bin\Debug\netcoreapp3.1\02VowelsCount.deps.json
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\bin\Debug\netcoreapp3.1\02VowelsCount.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\bin\Debug\netcoreapp3.1\02VowelsCount.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\bin\Debug\netcoreapp3.1\02VowelsCount.dll
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\bin\Debug\netcoreapp3.1\02VowelsCount.pdb
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\obj\Debug\netcoreapp3.1\02VowelsCount.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\obj\Debug\netcoreapp3.1\02VowelsCount.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\obj\Debug\netcoreapp3.1\02VowelsCount.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\obj\Debug\netcoreapp3.1\02VowelsCount.dll
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\obj\Debug\netcoreapp3.1\02VowelsCount.pdb
+C:\dev\softuni c#\fundamentals\14Methods\02VowelsCount\obj\Debug\netcoreapp3.1\02VowelsCount.genruntimeconfig.cache

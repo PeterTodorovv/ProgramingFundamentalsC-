@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.exe
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.deps.json
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.dll
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\bin\Debug\netcoreapp3.1\07RepeatString.pdb
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.dll
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.pdb
+C:\dev\softuni c#\fundamentals\14Methods\07RepeatString\obj\Debug\netcoreapp3.1\07RepeatString.genruntimeconfig.cache
