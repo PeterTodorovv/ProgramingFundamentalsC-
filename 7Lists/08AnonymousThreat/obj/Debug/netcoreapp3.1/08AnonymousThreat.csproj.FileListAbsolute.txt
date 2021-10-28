@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\bin\Debug\netcoreapp3.1\08AnonymousThreat.exe
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\bin\Debug\netcoreapp3.1\08AnonymousThreat.deps.json
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\bin\Debug\netcoreapp3.1\08AnonymousThreat.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\bin\Debug\netcoreapp3.1\08AnonymousThreat.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\bin\Debug\netcoreapp3.1\08AnonymousThreat.dll
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\bin\Debug\netcoreapp3.1\08AnonymousThreat.pdb
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.dll
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.pdb
+C:\dev\softuni c#\fundamentals\17Lists\08AnonymousThreat\obj\Debug\netcoreapp3.1\08AnonymousThreat.genruntimeconfig.cache

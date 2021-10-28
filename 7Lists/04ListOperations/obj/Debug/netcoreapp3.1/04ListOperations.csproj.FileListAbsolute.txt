@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.exe
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.deps.json
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.dll
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\bin\Debug\netcoreapp3.1\04ListOperations.pdb
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.dll
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.pdb
+C:\dev\softuni c#\fundamentals\17Lists\04ListOperations\obj\Debug\netcoreapp3.1\04ListOperations.genruntimeconfig.cache

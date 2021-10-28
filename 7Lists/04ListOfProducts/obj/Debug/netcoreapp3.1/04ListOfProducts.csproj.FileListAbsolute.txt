@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.exe
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.deps.json
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\bin\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.dll
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.pdb
+C:\dev\softuni c#\fundamentals\17Lists\04ListOfProducts\obj\Debug\netcoreapp3.1\04ListOfProducts.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.exe
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.deps.json
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.dll
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\bin\Debug\netcoreapp3.1\07AppendArrays.pdb
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.dll
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.pdb
+C:\dev\softuni c#\fundamentals\17Lists\07AppendArrays\obj\Debug\netcoreapp3.1\07AppendArrays.genruntimeconfig.cache
