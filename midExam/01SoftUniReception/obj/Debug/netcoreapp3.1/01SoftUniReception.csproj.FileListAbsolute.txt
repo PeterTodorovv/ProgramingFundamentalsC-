@@ -1,0 +1,14 @@
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\bin\Debug\netcoreapp3.1\01SoftUniReception.exe
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\bin\Debug\netcoreapp3.1\01SoftUniReception.deps.json
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\bin\Debug\netcoreapp3.1\01SoftUniReception.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\bin\Debug\netcoreapp3.1\01SoftUniReception.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\bin\Debug\netcoreapp3.1\01SoftUniReception.dll
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\bin\Debug\netcoreapp3.1\01SoftUniReception.pdb
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.dll
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.pdb
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.genruntimeconfig.cache
+C:\dev\softuni c#\fundamentals\midExam\01SoftUniReception\obj\Debug\netcoreapp3.1\01SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig

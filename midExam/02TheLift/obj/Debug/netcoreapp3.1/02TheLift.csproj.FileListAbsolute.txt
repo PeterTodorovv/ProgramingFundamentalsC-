@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.exe
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.deps.json
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.dll
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\bin\Debug\netcoreapp3.1\02TheLift.pdb
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.dll
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.pdb
+C:\dev\softuni c#\fundamentals\midExam\02TheLift\obj\Debug\netcoreapp3.1\02TheLift.genruntimeconfig.cache

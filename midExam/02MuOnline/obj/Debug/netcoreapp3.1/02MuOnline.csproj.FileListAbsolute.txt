@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.exe
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.deps.json
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.dll
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\bin\Debug\netcoreapp3.1\02MuOnline.pdb
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.dll
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.pdb
+C:\dev\softuni c#\fundamentals\midExam\02MuOnline\obj\Debug\netcoreapp3.1\02MuOnline.genruntimeconfig.cache

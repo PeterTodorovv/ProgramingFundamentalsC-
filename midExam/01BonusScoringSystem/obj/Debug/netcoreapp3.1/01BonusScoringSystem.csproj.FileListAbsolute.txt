@@ -1,0 +1,14 @@
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\bin\Debug\netcoreapp3.1\01BonusScoringSystem.exe
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\bin\Debug\netcoreapp3.1\01BonusScoringSystem.deps.json
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\bin\Debug\netcoreapp3.1\01BonusScoringSystem.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\bin\Debug\netcoreapp3.1\01BonusScoringSystem.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\bin\Debug\netcoreapp3.1\01BonusScoringSystem.dll
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\bin\Debug\netcoreapp3.1\01BonusScoringSystem.pdb
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.dll
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.pdb
+C:\dev\softuni c#\fundamentals\midExam\01BonusScoringSystem\obj\Debug\netcoreapp3.1\01BonusScoringSystem.genruntimeconfig.cache

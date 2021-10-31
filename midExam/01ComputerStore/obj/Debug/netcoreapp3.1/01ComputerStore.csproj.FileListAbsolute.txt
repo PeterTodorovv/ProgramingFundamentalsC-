@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.exe
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.deps.json
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.dll
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\bin\Debug\netcoreapp3.1\01ComputerStore.pdb
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.dll
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.pdb
+C:\dev\softuni c#\fundamentals\midExam\01ComputerStore\obj\Debug\netcoreapp3.1\01ComputerStore.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\bin\Debug\netcoreapp3.1\03MemoryGame.exe
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\bin\Debug\netcoreapp3.1\03MemoryGame.deps.json
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\bin\Debug\netcoreapp3.1\03MemoryGame.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\bin\Debug\netcoreapp3.1\03MemoryGame.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\bin\Debug\netcoreapp3.1\03MemoryGame.dll
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\bin\Debug\netcoreapp3.1\03MemoryGame.pdb
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.dll
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.pdb
+C:\dev\softuni c#\fundamentals\midExam\03MemoryGame\obj\Debug\netcoreapp3.1\03MemoryGame.genruntimeconfig.cache

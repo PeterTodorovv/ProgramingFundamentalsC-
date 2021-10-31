@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.exe
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.deps.json
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.dll
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\bin\Debug\netcoreapp3.1\03Numbers.pdb
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.dll
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.pdb
+C:\dev\softuni c#\fundamentals\midExam\03Numbers\obj\Debug\netcoreapp3.1\03Numbers.genruntimeconfig.cache
