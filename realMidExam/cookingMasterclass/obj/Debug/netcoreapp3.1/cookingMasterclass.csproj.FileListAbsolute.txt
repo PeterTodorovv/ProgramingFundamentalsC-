@@ -1,0 +1,14 @@
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\bin\Debug\netcoreapp3.1\cookingMasterclass.exe
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\bin\Debug\netcoreapp3.1\cookingMasterclass.deps.json
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\bin\Debug\netcoreapp3.1\cookingMasterclass.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\bin\Debug\netcoreapp3.1\cookingMasterclass.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\bin\Debug\netcoreapp3.1\cookingMasterclass.dll
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\bin\Debug\netcoreapp3.1\cookingMasterclass.pdb
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.dll
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.pdb
+C:\dev\softuni c#\fundamentals\realMidExam\cookingMasterclass\obj\Debug\netcoreapp3.1\cookingMasterclass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\bin\Debug\netcoreapp3.1\02CoffeeLover.exe
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\bin\Debug\netcoreapp3.1\02CoffeeLover.deps.json
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\bin\Debug\netcoreapp3.1\02CoffeeLover.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\bin\Debug\netcoreapp3.1\02CoffeeLover.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\bin\Debug\netcoreapp3.1\02CoffeeLover.dll
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\bin\Debug\netcoreapp3.1\02CoffeeLover.pdb
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.dll
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.pdb
+C:\dev\softuni c#\fundamentals\realMidExam\02CoffeeLover\obj\Debug\netcoreapp3.1\02CoffeeLover.genruntimeconfig.cache

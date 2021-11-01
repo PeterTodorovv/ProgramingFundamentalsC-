@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\bin\Debug\netcoreapp3.1\03ChatLogger.exe
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\bin\Debug\netcoreapp3.1\03ChatLogger.deps.json
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\bin\Debug\netcoreapp3.1\03ChatLogger.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\bin\Debug\netcoreapp3.1\03ChatLogger.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\bin\Debug\netcoreapp3.1\03ChatLogger.dll
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\bin\Debug\netcoreapp3.1\03ChatLogger.pdb
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.dll
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.pdb
+C:\dev\softuni c#\fundamentals\realMidExam\03ChatLogger\obj\Debug\netcoreapp3.1\03ChatLogger.genruntimeconfig.cache
