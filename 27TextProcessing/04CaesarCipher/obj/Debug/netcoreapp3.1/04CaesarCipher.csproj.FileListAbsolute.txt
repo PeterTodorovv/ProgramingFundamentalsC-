@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.exe
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.deps.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\bin\Debug\netcoreapp3.1\04CaesarCipher.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\04CaesarCipher\obj\Debug\netcoreapp3.1\04CaesarCipher.genruntimeconfig.cache

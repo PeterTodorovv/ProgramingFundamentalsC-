@@ -1,0 +1,12 @@
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.exe
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.deps.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\bin\Debug\netcoreapp3.1\05DigitsLettersAndOther.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\05DigitsLettersAndOther\obj\Debug\netcoreapp3.1\05DigitsLettersAndOther.genruntimeconfig.cache

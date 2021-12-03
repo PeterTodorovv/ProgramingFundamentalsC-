@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.exe
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.deps.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\bin\Debug\netcoreapp3.1\01ValidUsernames.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\01ValidUsernames\obj\Debug\netcoreapp3.1\01ValidUsernames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\bin\Debug\netcoreapp3.1\03MatchDates.exe
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\bin\Debug\netcoreapp3.1\03MatchDates.deps.json
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\bin\Debug\netcoreapp3.1\03MatchDates.runtimeconfig.json
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\bin\Debug\netcoreapp3.1\03MatchDates.runtimeconfig.dev.json
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\bin\Debug\netcoreapp3.1\03MatchDates.dll
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\bin\Debug\netcoreapp3.1\03MatchDates.pdb
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.AssemblyInfo.cs
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.dll
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.pdb
+C:\Users\peter\source\repos\30RegularExpressions\03MatchDates\obj\Debug\netcoreapp3.1\03MatchDates.genruntimeconfig.cache

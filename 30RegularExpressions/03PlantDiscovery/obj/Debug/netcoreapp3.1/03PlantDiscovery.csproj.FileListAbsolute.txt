@@ -1,0 +1,14 @@
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.exe
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.deps.json
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.runtimeconfig.json
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.runtimeconfig.dev.json
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.dll
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\bin\Debug\netcoreapp3.1\03PlantDiscovery.pdb
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.csproj.AssemblyReference.cache
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.AssemblyInfo.cs
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.dll
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.pdb
+C:\Users\peter\source\repos\30RegularExpressions\03PlantDiscovery\obj\Debug\netcoreapp3.1\03PlantDiscovery.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\bin\Debug\netcoreapp3.1\03Substring.exe
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\bin\Debug\netcoreapp3.1\03Substring.deps.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\bin\Debug\netcoreapp3.1\03Substring.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\bin\Debug\netcoreapp3.1\03Substring.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\bin\Debug\netcoreapp3.1\03Substring.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\bin\Debug\netcoreapp3.1\03Substring.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\03Substring\obj\Debug\netcoreapp3.1\03Substring.genruntimeconfig.cache

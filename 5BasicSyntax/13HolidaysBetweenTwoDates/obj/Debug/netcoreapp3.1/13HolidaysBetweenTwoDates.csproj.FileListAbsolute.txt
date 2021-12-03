@@ -1,0 +1,12 @@
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.exe
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.deps.json
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.dll
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\bin\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.pdb
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.dll
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.pdb
+C:\Users\peter\source\repos\Lec1 Basic Syntax\13HolidaysBetweenTwoDates\obj\Debug\netcoreapp3.1\13HolidaysBetweenTwoDates.genruntimeconfig.cache

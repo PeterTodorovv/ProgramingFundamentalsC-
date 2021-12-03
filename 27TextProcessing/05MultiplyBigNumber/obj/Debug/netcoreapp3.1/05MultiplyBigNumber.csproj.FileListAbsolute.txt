@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\bin\Debug\netcoreapp3.1\05MultiplyBigNumber.exe
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\bin\Debug\netcoreapp3.1\05MultiplyBigNumber.deps.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\bin\Debug\netcoreapp3.1\05MultiplyBigNumber.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\bin\Debug\netcoreapp3.1\05MultiplyBigNumber.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\bin\Debug\netcoreapp3.1\05MultiplyBigNumber.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\bin\Debug\netcoreapp3.1\05MultiplyBigNumber.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.genruntimeconfig.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\05MultiplyBigNumber\obj\Debug\netcoreapp3.1\05MultiplyBigNumber.csproj.AssemblyReference.cache

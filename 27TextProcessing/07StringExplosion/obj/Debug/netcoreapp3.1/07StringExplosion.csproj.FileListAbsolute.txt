@@ -1,0 +1,13 @@
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.exe
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.deps.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.runtimeconfig.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.runtimeconfig.dev.json
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\bin\Debug\netcoreapp3.1\07StringExplosion.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.csproj.AssemblyReference.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.AssemblyInfoInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.AssemblyInfo.cs
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.csproj.CoreCompileInputs.cache
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.dll
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.pdb
+C:\dev\softuni c#\fundamentals\27TextProcessing\07StringExplosion\obj\Debug\netcoreapp3.1\07StringExplosion.genruntimeconfig.cache
