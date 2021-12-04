@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\17Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\17Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj",
         "projectName": "07ListManipulationAdvanced",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\07ListManipulationAdvanced\\07ListManipulationAdvanced.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\07ListManipulationAdvanced\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\07ListManipulationAdvanced\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

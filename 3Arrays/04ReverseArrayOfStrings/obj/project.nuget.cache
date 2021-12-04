@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CZcRCwzBBlufHbAuGmKHKeVVBTnfH+WsbKFt9Xgu/gwqp3d1x7RjIOdtkr8tYGyrblZb3iBB2RV2kw+SER25sA==",
+  "dgSpecHash": "e2Hr+H0BR2gvvllmZ6PI63Z1FjOFo5enryXSN6TzNy7ypr/USCCk0ExjnmOkJCwm0zcpDivCiHExneqR/KsV7A==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\04ReverseArrayOfStrings\\04ReverseArrayOfStrings.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\04ReverseArrayOfStrings\\04ReverseArrayOfStrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

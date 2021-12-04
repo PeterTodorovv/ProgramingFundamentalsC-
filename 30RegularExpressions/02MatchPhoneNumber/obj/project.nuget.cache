@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "juw+Xa4gi37zOpNBrA8pbf0KwhlHsAU/xClThfjSgFYLw4YoBcQnLYNiYdMSQZaG0qLe9JoYY2jBHxqjCz0lkA==",
+  "dgSpecHash": "jAYaqKYko2eytNY/j/S49fWYzT4wn2P3qIFDNyCWTdSYVy1ZJMKx7qUthFiE3yOcqOTFBG9Ox3jVi56MXRSGzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\02MatchPhoneNumber\\02MatchPhoneNumber.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\02MatchPhoneNumber\\02MatchPhoneNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

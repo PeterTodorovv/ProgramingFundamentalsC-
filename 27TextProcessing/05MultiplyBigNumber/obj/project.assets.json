@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\05MultiplyBigNumber\\05MultiplyBigNumber.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\05MultiplyBigNumber\\05MultiplyBigNumber.csproj",
       "projectName": "05MultiplyBigNumber",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\05MultiplyBigNumber\\05MultiplyBigNumber.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\05MultiplyBigNumber\\05MultiplyBigNumber.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\05MultiplyBigNumber\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\05MultiplyBigNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\01MatchFullName\\01MatchFullName.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\01MatchFullName\\01MatchFullName.csproj",
       "projectName": "01MatchFullName",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\01MatchFullName\\01MatchFullName.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\01MatchFullName\\01MatchFullName.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\01MatchFullName\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\01MatchFullName\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

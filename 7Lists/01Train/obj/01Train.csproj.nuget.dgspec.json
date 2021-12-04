@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\17Lists\\01Train\\01Train.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\01Train\\01Train.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\17Lists\\01Train\\01Train.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\01Train\\01Train.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\01Train\\01Train.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\01Train\\01Train.csproj",
         "projectName": "01Train",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\01Train\\01Train.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\01Train\\01Train.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\01Train\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\01Train\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

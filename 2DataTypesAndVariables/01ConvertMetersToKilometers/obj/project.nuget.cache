@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XMoS6H6Rqhf2kPQy78U09pEMRIlo0izx4ZWva5t+ygM7adcrLasX8hM9AcJBb2+HTpscL3b3grRGbfyhlwJPFw==",
+  "dgSpecHash": "peP1deObWyKSmh9QLjdFcpOmCNSTjKDWBgMJeR8VR6xhcPesQHd/O6TcfXVE2GZkq1XOv+U1/97Zlcu5mrRu3A==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\lec8DataTypesAndVariables\\01ConvertMetersToKilometers\\01ConvertMetersToKilometers.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\2DataTypesAndVariables\\01ConvertMetersToKilometers\\01ConvertMetersToKilometers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

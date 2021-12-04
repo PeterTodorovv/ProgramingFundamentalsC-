@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lNvlCjuiM5bifp0aeWRvin/1TwBJg2Kool4uZM0WN+wLJNRAbcHdEWmyN/zf4QJ3Wy76Hbt0Yk7pXzBWwYvJbw==",
+  "success": true,
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\02.Race\\02.Race.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\peter\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

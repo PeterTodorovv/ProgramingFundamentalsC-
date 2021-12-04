@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zEwCM54cdjvPQvcOnntWvS0b2v1oGKuLIEBNUw3TBg1C+GA86TFlSx1O5pWUrs/m2g65mW5pBJsBd8yoD8CUdQ==",
+  "dgSpecHash": "GjEjSDWOwXWN2KShDEKaWNrzgXhDFSLdY5T2dt+linJZf/z8F1QqRJrXFEUyS6tM5qivxskcFK/blcpfp/7acA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J1ZmNQyFt3Ezw2gqAChvtJoZL6dnW3eoY++t3IyDgGSAG6d4IKn7WMQRxTZ6GC5PfuXbZLUL88Gjeu5lK2GaPg==",
+  "dgSpecHash": "gzZ3yTJRwNK+AAcfD5JSGqk3MT4Whf4PFKKCheDVF69oMuhJBQ/0FBrfv60FV+6sCNSUjXx2ydc31nk6F1/EXg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\06CalculateRectangleArea\\06CalculateRectangleArea.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\06CalculateRectangleArea\\06CalculateRectangleArea.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

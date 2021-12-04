@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\01Furniture\\01Furniture.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\01Furniture\\01Furniture.csproj",
       "projectName": "01Furniture",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\01Furniture\\01Furniture.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\01Furniture\\01Furniture.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\01Furniture\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\01Furniture\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

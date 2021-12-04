@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dYjclfSvZ6cjtxek/yoezSnJ+gcmn1Z2YlnovOBjdZlJegwiIsJIMoSBZzn9cowqHxnXTroETjSjY3zcAvbV/w==",
+  "dgSpecHash": "C4OK0EBcTvgsVouTVzDe1JOaRJR4QVr3a7E79ulYj+KHEft3sVYS61i3jyQk0g1b+GN8PVwVLBIK3lgViO+TCA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\04PrintingTriangle\\04PrintingTriangle.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\04PrintingTriangle\\04PrintingTriangle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

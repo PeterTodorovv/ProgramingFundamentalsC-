@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vU+y28tmddKjZwTa9yuqyJPQVs9UP8uPsjDsMftLo6h31CDdOcGfiG6uMTc6qRHIQL/tWznHb0dVfoqrNcGFNA==",
+  "dgSpecHash": "bwJ17eiQyrqHugdho1IbBGHs1R7CgTiYZ79G0NvC10Wsm4lNI+17wUUZfYWQZLe4DSGS5YaLikazgDK5g3wgQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\peter\\source\\repos\\Lec1 Basic Syntax\\10MultiplicationTable\\10MultiplicationTable.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\1 Basic Syntax\\10MultiplicationTable\\10MultiplicationTable.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

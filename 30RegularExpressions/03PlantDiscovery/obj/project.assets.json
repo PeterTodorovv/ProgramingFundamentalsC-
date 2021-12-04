@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\03PlantDiscovery\\03PlantDiscovery.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\03PlantDiscovery\\03PlantDiscovery.csproj",
       "projectName": "03PlantDiscovery",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\03PlantDiscovery\\03PlantDiscovery.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\03PlantDiscovery\\03PlantDiscovery.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\03PlantDiscovery\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\03PlantDiscovery\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

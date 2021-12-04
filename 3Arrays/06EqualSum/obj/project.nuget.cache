@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UTPrw22Rf/dnRQMy3hm4CkD7YDW7zLtQkl7H3ArP0wHC+T609Pa+e4+9/dISn1FSkypH4TIBJDoSJNixUdgWZA==",
+  "dgSpecHash": "fNKdtiOB0myNjVQ7rtlWAtGb+gG3G2mUpmM22bU1rnw8ycQPTCvXKG299PYQ+j/dIvE+PUtOxrGV+MlUphTJNg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\06EqualSum\\06EqualSum.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\06EqualSum\\06EqualSum.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

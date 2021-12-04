@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\05BombNumbers\\05BombNumbers.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\05BombNumbers\\05BombNumbers.csproj",
       "projectName": "05BombNumbers",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\05BombNumbers\\05BombNumbers.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\05BombNumbers\\05BombNumbers.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\05BombNumbers\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\05BombNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P9defUN6kFkVUKxxz8P32VmnU+RotKJI4QDVPs1gQI0IoUrXpx+I/Ho/xydRtDA+HGjOo0wJ1SXUrJm6Ji2kUQ==",
+  "dgSpecHash": "MitOsQjrbPlDGPT+MdNzkXtLl69PNWro10SqnPHhHHGazoo0y0QuKTWP5TaBN3Fct9s2Gyo1sa+IQBlnXA5YMg==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\02VowelsCount\\02VowelsCount.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\02VowelsCount\\02VowelsCount.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

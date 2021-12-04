@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "67kPQ9YA+YQEfkG4RN9y34tO3qgT6Rd58v+9jPZ39EGCiH3AoqY2LoTwefNnfsWcOvD+GdIa6F4OFxSZ2KnSdw==",
+  "dgSpecHash": "mzVNlkytgjTjmsVFEZXAGJd9Ps3s4wjgCExDUFEIV51JRis4EQjZC7WRLXnldp4FgQC13J+xpNkhEj7n7pfOtQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\04TextFilter\\04TextFilter.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\04TextFilter\\04TextFilter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

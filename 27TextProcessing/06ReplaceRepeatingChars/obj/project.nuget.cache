@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r23aICj1qbUnj+Eq0lTYKpl495ZuLDQDVVY4Lm/Mpt0r0lQR8ccNtNmywfReGI7/hjFWd2G3PQvNEfbF54++NA==",
+  "dgSpecHash": "itCKs27/TzhABvr8SfujCvyNRlaY09edBlKRjZhca8rXZbNi0Bz6u+BZ1ndgoi9FTetjy6pbUDKrAKGJHw66QA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\06ReplaceRepeatingChars\\06ReplaceRepeatingChars.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\06ReplaceRepeatingChars\\06ReplaceRepeatingChars.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

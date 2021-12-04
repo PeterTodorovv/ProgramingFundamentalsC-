@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dfWXGEiGMWbqMeAi8tAfsaRGK1ZyT04No0uJqSrVBIBb2BxPc+VVxX70E56rWp2lQZvnt8u9w8qjTK12dR58Bg==",
+  "dgSpecHash": "3SeU2mPCfOYeVJbvOWgRtmR8xAXF6S6Tf6i2oT7919uANi/gJzYkUHLocdN8YjBXZFkLoemNhoVtjlfxc08HbA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ReverseStrings\\01ReverseStrings.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ReverseStrings\\01ReverseStrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\06EqualSum\\06EqualSum.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\06EqualSum\\06EqualSum.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\06EqualSum\\06EqualSum.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\06EqualSum\\06EqualSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\06EqualSum\\06EqualSum.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\06EqualSum\\06EqualSum.csproj",
         "projectName": "06EqualSum",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\06EqualSum\\06EqualSum.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\06EqualSum\\06EqualSum.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\06EqualSum\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\06EqualSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

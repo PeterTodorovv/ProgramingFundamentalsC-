@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\05TopIntegers\\05TopIntegers.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\05TopIntegers\\05TopIntegers.csproj",
       "projectName": "05TopIntegers",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\05TopIntegers\\05TopIntegers.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\05TopIntegers\\05TopIntegers.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\05TopIntegers\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\05TopIntegers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

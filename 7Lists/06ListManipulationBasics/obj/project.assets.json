@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\06ListManipulationBasics\\06ListManipulationBasics.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\06ListManipulationBasics\\06ListManipulationBasics.csproj",
       "projectName": "06ListManipulationBasics",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\06ListManipulationBasics\\06ListManipulationBasics.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\06ListManipulationBasics\\06ListManipulationBasics.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\17Lists\\06ListManipulationBasics\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\7Lists\\06ListManipulationBasics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

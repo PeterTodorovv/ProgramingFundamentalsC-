@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\06MiddleCharacters\\06MiddleCharacters.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\06MiddleCharacters\\06MiddleCharacters.csproj",
       "projectName": "06MiddleCharacters",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\06MiddleCharacters\\06MiddleCharacters.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\06MiddleCharacters\\06MiddleCharacters.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\06MiddleCharacters\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\06MiddleCharacters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

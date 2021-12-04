@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pYpAvG1Lrrvrc+rl1LNWNR7jmp9jL740V03V/PNOuV9h7d1UiuzbtjYSEc2jKBLL22PJNHUzF6Z3ceAlmTySAg==",
+  "dgSpecHash": "KDrouQQjdfSxM3uW1W+llDkkMTr5YT02BeC4doraz4cQcU2/xVYt5ih2hAyMhziBfSD0ETOKq4e0KyrPBusTWA==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

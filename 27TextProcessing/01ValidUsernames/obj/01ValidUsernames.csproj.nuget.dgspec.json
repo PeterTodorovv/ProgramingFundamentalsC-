@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj",
         "projectName": "01ValidUsernames",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ValidUsernames\\01ValidUsernames.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\01ValidUsernames\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\01ValidUsernames\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

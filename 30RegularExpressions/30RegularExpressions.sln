@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03MatchDates", "03MatchDate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01Furniture", "01Furniture\01Furniture.csproj", "{BEF6A7BB-2C25-40CF-A229-7F092CFEE237}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03PlantDiscovery", "03PlantDiscovery\03PlantDiscovery.csproj", "{D1624FA9-5C38-4B1C-87BC-5D0DC7824E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03PlantDiscovery", "03PlantDiscovery\03PlantDiscovery.csproj", "{D1624FA9-5C38-4B1C-87BC-5D0DC7824E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Race", "02.Race\02.Race.csproj", "{4AB6AF62-E14B-412B-A08C-68A6662D53D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SoftUniBarIncome", "03.SoftUniBarIncome\03.SoftUniBarIncome.csproj", "{CC42A9EC-B798-4399-AB83-D719905F56E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{D1624FA9-5C38-4B1C-87BC-5D0DC7824E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1624FA9-5C38-4B1C-87BC-5D0DC7824E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1624FA9-5C38-4B1C-87BC-5D0DC7824E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB6AF62-E14B-412B-A08C-68A6662D53D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB6AF62-E14B-412B-A08C-68A6662D53D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB6AF62-E14B-412B-A08C-68A6662D53D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB6AF62-E14B-412B-A08C-68A6662D53D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC42A9EC-B798-4399-AB83-D719905F56E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC42A9EC-B798-4399-AB83-D719905F56E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC42A9EC-B798-4399-AB83-D719905F56E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC42A9EC-B798-4399-AB83-D719905F56E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

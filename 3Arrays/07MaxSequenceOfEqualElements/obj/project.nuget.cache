@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qcV1qGsiwglq96ozibUZP/il3SVK2kWPrQ4ixuwtlNM9Ssi8y+vtEXi0WOBSH/FmJj/vbNgUb1LJxM+zISsTWQ==",
+  "dgSpecHash": "A/DR9KLh3fqIoC3FDyL99ldCP2RZ0L6VYKGgmjeYvxEflDPo9Ey4expbHn5EmKqIahw0j1+UP6oL50wKy2KEvw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\07MaxSequenceOfEqualElements\\07MaxSequenceOfEqualElements.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\07MaxSequenceOfEqualElements\\07MaxSequenceOfEqualElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

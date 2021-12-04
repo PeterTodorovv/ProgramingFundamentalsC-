@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\01Day of Week\\01Day of Week.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\01Day of Week\\01Day of Week.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\01Day of Week\\01Day of Week.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\01Day of Week\\01Day of Week.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\01Day of Week\\01Day of Week.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\01Day of Week\\01Day of Week.csproj",
         "projectName": "01Day of Week",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\01Day of Week\\01Day of Week.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\01Day of Week\\01Day of Week.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\01Day of Week\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\01Day of Week\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kji6kRwjmJYwQioNioVONsNmji3eTbO1z4KtnxoppW4tO/DJ4q/T6JN2zkm12+CmKHNvzmIiGbW5o//bBPdIMw==",
+  "dgSpecHash": "v1YDT6fPAYD06W47gaT7BlhLDEwbT1SFH4bNy+Nb/r1HCcJ8tcHoErdmXqvnrbUU3Tvb7S06MA6uWqVN2DE1ew==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\10LadyBugs\\10LadyBugs.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\10LadyBugs\\10LadyBugs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

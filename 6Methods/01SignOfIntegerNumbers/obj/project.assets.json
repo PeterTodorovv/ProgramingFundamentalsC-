@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SignOfIntegerNumbers\\01SignOfIntegerNumbers.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SignOfIntegerNumbers\\01SignOfIntegerNumbers.csproj",
       "projectName": "01SignOfIntegerNumbers",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SignOfIntegerNumbers\\01SignOfIntegerNumbers.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SignOfIntegerNumbers\\01SignOfIntegerNumbers.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SignOfIntegerNumbers\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SignOfIntegerNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

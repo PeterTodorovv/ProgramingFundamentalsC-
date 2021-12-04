@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vEBmbKLASSMDDZ0s/cgwXZY7/PiJru0luUob9+rbsGA9CIZjs/sN2njAtSqTXSba3jMEGaarHwz4JlPvWhK2Bw==",
+  "dgSpecHash": "lu/A1M3gvb7TR9s7+/OTmDKiVXXHIY8wR2ntHyCuZAuUGxwAPvaOY0VMhzsH8Z9ROe6LnIS5YKXZvbgAb8GWqQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\05SumEvenNumbers\\05SumEvenNumbers.csproj",
+  "projectFilePath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\05SumEvenNumbers\\05SumEvenNumbers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

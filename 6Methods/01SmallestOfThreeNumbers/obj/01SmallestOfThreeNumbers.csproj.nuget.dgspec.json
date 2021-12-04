@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj",
         "projectName": "01SmallestOfThreeNumbers",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SmallestOfThreeNumbers\\01SmallestOfThreeNumbers.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\01SmallestOfThreeNumbers\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\01SmallestOfThreeNumbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

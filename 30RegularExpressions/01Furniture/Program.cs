@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Linq;
-using System.Text;
+using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace _01Furniture
@@ -10,20 +9,29 @@ namespace _01Furniture
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
-            var regex = @"(([\/|=])[A-Z][A-z]{3,}\2)";
-            string[] match = Regex.Matches(input, regex).Cast<Match>()
-            .Select(m => m.Value)
-            .ToArray();
+            double totalSum = 0;
+            List<string> furnitures = new List<string>();
+            Regex regex = new Regex(@">>([A-Z][A-z]+)<<(\d+.*\d*)!(\d+)");
 
-            string mathces = String.Join(' ', match);
-            mathces = mathces.Replace('=', ' ');
-            mathces = mathces.Replace('/', ' ');
-            string[] locations = mathces.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            string forPoints = String.Join("", locations);
-            string destinations = String.Join(", ", locations);
+            while(input != "Purchase")
+            {
+                if (regex.IsMatch(input))
+                {
+                    Match match = Regex.Match(input, @">>([A-Z][A-z]+)<<(\d+.*\d*)!(\d+)");
+                    furnitures.Add(match.Groups[1].Value);
+                    totalSum += double.Parse(match.Groups[2].Value) * int.Parse(match.Groups[3].Value);
+                }
 
-            Console.WriteLine($"Destinations: {destinations}");
-            Console.WriteLine($"Travel Points: {forPoints.Length}");
+                input = Console.ReadLine();
+            }
+
+            Console.WriteLine("Bought furniture:");
+            foreach(var furniture in furnitures)
+            {
+                Console.WriteLine(furniture);
+            }
+
+            Console.WriteLine($"Total money spend: {totalSum:f2}");
         }
     }
 }

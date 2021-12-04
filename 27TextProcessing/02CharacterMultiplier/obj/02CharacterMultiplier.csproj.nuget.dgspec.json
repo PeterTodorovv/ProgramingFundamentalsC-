@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj",
         "projectName": "02CharacterMultiplier",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\02CharacterMultiplier.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\27TextProcessing\\02CharacterMultiplier\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

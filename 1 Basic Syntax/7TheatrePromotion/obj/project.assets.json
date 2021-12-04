@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\Lec1 Basic Syntax\\7TheatrePromotion\\7TheatrePromotion.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\1 Basic Syntax\\7TheatrePromotion\\7TheatrePromotion.csproj",
       "projectName": "7TheatrePromotion",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\Lec1 Basic Syntax\\7TheatrePromotion\\7TheatrePromotion.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\1 Basic Syntax\\7TheatrePromotion\\7TheatrePromotion.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\Lec1 Basic Syntax\\7TheatrePromotion\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\1 Basic Syntax\\7TheatrePromotion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

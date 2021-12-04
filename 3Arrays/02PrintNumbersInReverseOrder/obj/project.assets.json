@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\02PrintNumbersInReverseOrder\\02PrintNumbersInReverseOrder.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\02PrintNumbersInReverseOrder\\02PrintNumbersInReverseOrder.csproj",
       "projectName": "02PrintNumbersInReverseOrder",
-      "projectPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\02PrintNumbersInReverseOrder\\02PrintNumbersInReverseOrder.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\02PrintNumbersInReverseOrder\\02PrintNumbersInReverseOrder.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\02PrintNumbersInReverseOrder\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\02PrintNumbersInReverseOrder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

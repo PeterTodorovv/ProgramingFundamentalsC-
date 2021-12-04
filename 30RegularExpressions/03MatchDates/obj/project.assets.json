@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\03MatchDates\\03MatchDates.csproj",
+      "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\03MatchDates\\03MatchDates.csproj",
       "projectName": "03MatchDates",
-      "projectPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\03MatchDates\\03MatchDates.csproj",
+      "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\03MatchDates\\03MatchDates.csproj",
       "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\peter\\source\\repos\\30RegularExpressions\\03MatchDates\\obj\\",
+      "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\30RegularExpressions\\03MatchDates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",

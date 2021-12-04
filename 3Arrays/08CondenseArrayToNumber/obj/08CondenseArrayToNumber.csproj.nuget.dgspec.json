@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj",
         "projectName": "08CondenseArrayToNumber",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\08CondenseArrayToNumber\\08CondenseArrayToNumber.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\11Arrays\\08CondenseArrayToNumber\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\3Arrays\\08CondenseArrayToNumber\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

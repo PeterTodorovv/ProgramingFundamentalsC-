@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\softuni c#\\fundamentals\\14Methods\\08FactorialDivision\\08FactorialDivision.csproj": {}
+    "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\08FactorialDivision\\08FactorialDivision.csproj": {}
   },
   "projects": {
-    "C:\\dev\\softuni c#\\fundamentals\\14Methods\\08FactorialDivision\\08FactorialDivision.csproj": {
+    "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\08FactorialDivision\\08FactorialDivision.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\08FactorialDivision\\08FactorialDivision.csproj",
+        "projectUniqueName": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\08FactorialDivision\\08FactorialDivision.csproj",
         "projectName": "08FactorialDivision",
-        "projectPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\08FactorialDivision\\08FactorialDivision.csproj",
+        "projectPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\08FactorialDivision\\08FactorialDivision.csproj",
         "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\softuni c#\\fundamentals\\14Methods\\08FactorialDivision\\obj\\",
+        "outputPath": "D:\\c#Code\\softuniC#\\fundamentals\\6Methods\\08FactorialDivision\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

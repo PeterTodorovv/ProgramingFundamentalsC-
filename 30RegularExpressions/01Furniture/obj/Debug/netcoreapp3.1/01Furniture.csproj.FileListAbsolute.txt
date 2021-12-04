@@ -11,3 +11,17 @@ C:\Users\peter\source\repos\30RegularExpressions\01Furniture\obj\Debug\netcoreap
 C:\Users\peter\source\repos\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.dll
 C:\Users\peter\source\repos\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.pdb
 C:\Users\peter\source\repos\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.genruntimeconfig.cache
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.exe
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.deps.json
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.runtimeconfig.json
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.runtimeconfig.dev.json
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.dll
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\bin\Debug\netcoreapp3.1\01Furniture.pdb
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.AssemblyInfo.cs
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.dll
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.pdb
+D:\c#Code\softuniC#\fundamentals\30RegularExpressions\01Furniture\obj\Debug\netcoreapp3.1\01Furniture.genruntimeconfig.cache
