@@ -1,0 +1,14 @@
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.exe
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.deps.json
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.runtimeconfig.json
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.runtimeconfig.dev.json
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.dll
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\bin\Debug\netcoreapp3.1\03.MessagesManager.pdb
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.csproj.AssemblyReference.cache
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.AssemblyInfoInputs.cache
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.AssemblyInfo.cs
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.csproj.CoreCompileInputs.cache
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.dll
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.pdb
+D:\c#Code\softuniC#\fundamentals\finalExam\03.MessagesManager\obj\Debug\netcoreapp3.1\03.MessagesManager.genruntimeconfig.cache
